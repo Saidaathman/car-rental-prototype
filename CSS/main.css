@@ -7,7 +7,7 @@
 .navbar a {
   float: left;
   text-align: center;
-  padding: 12px;
+  padding: 10px;
   color: white;
   text-decoration: none;
   font-size: 17px;
@@ -163,6 +163,33 @@ button#btn-checkin {
   margin-top: -90px;
 
 }
+.image{
+  padding-left: 390px;
+  padding-top: 140px;
+  margin-left: 100px;
+  margin-top: -25px;
+
+}
+
+#btn-checkin {
+  display: inline-block;
+  
+  padding: 6px 10px;
+  
+  border: none;
+  border-radius: 5px;
+  background-color: #0C1D36;
+  color: #fff;
+  text-align: center;
+  text-transform: uppercase;
+  margin-left: 900px;
+  margin-top: -90px;
+  padding-right: 200px;
+  padding-left: 50px;
+
+
+  }
+
 
 
 
